@@ -25,7 +25,7 @@ SECRET_KEY = 'cpp4k0gc$+o)*f$=g36o_mhh3tc8fy^m@16t74&ulw$h4n!ll&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['134.122.114.247' 'sirwaltermelon.com' 'www.sirwaltermelon.com']
+ALLOWED_HOSTS = ['134.122.114.247', 'sirwaltermelon.com', 'www.sirwaltermelon.com']
 
 
 # Application definition
